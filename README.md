@@ -9,8 +9,11 @@ I'm passionate about **Finance**, **Artificial Intelligence**, and **Quantum Com
 ---
 
 ### 📝 Papers I've Written
-- **Evolving Quantum Neural Network Operations**: Exploring data re-uploading, entanglement, and Orch OR theory to simulate consciousness.  
-- **Quantum Neural Network Operations**: Building quantum neural networks inspired by Orch OR theory.  
+- **Evolving Quantum Neural Network Operations**: Exploring data re-uploading, entanglement, and Orch OR theory to simulate consciousness. 
+[Evolving Quantum Neural Network Operations with Data Re-Uploading, Entanglement, and Consciousness Based on Orch OR Theory 2.pdf](https://github.com/user-attachments/files/18616100/Evolving.Quantum.Neural.Network.Operations.with.Data.Re-Uploading.Entanglement.and.Consciousness.Based.on.Orch.OR.Theory.2.pdf)
+
+- **Quantum Neural Network Operations**: Building quantum neural networks inspired by Orch OR theory.  [Quantum Neural Network Operations based on Orchestrated 2.pdf](https://github.com/user-attachments/files/18616102/Quantum.Neural.Network.Operations.based.on.Orchestrated.2.pdf)
+
 
 ---
 
