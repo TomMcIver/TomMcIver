@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Tom McIver
 
-<!--
-**TomMcIver/TomMcIver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data, ML and AI engineer based in Auckland, New Zealand. I build data pipelines and machine learning systems, from raw data to models running in production.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python, SQL, PySpark, Databricks, TypeScript, React, FastAPI, Docker, C++
+
+## Featured projects
+
+**[Whats-In-An-AI](https://github.com/TomMcIver/Whats-In-An-AI)**
+Neural networks, CNNs and self attention written from scratch in TypeScript with no ML library, trained live in the browser so you can watch weights, filters and attention learn. Every engine is gradient checked against numerical estimates.
+
+**[War-Games-Sim](https://github.com/TomMcIver/War-Games-Sim)**
+A simulation engine written in C++ with CMake.
+
+## Highlights
+
+* Built an in house segmentation labelling tool and a custom UNet to monitor coal temperature from RGB and thermal camera images
+* Production data engineering on Databricks and PySpark
+
+## Contact
+
+Open to data engineering, ML and AI roles in Auckland, Sydney and the US.
